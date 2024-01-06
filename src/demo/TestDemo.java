@@ -9,4 +9,5 @@ public class TestDemo {
 		//push to github
 		System.out.println("Pushing to github");
 	}
+	//today is friday
 }
